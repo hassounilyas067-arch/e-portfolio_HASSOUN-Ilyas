@@ -42,18 +42,25 @@ In your new repo: **Settings → Pages → Source → GitHub Actions**. Save.
 This is the **only file you need to touch.** Every field has a comment. Edit it on GitHub directly (click the pencil icon), commit, and your site builds automatically.
 
 ```yaml
-name: "Your Name"
-title: "Software Engineer"
-email: "you@example.com"
-openToWork: true        # shows the "Open to Opportunities" banner
+name: "Hassoun Ilyas"
+title: "Electronics, Electrical Energy & Automation student at ENSEEIHT, passionate about the development of sustainable energy."
+email: "hassounilyas067@gmail.com"
+openToWork: false        # shows the "Open to Opportunities" banner
 
-about: |
+about: Welcome! I'm Ilyas, a first-year student in Electronics, Electrical Energy and Automation at ENSEEIHT (Toulouse INP).
+
+After completing two years of intensive MP preparatory classes at Lycée Mohammed V in Casablanca, Morocco, I moved to Toulouse to pursue my ambition of becoming an internationally minded engineer.
+
+In this e-portfolio, you will discover my academic journey, engineering projects, international experience, personal commitments, extracurricular activities, and professional documents, including my elevator pitch.
+
+I invite you to explore my journey, achievements, and ambitions!
+
   Write 2-3 sentences about yourself here.
   The pipe symbol lets you write across multiple lines.
 
 social:
-  github: "https://github.com/yourusername"
-  linkedin: "https://linkedin.com/in/yourusername"
+  
+  linkedin: "https://linkedin.com/in/ilyas hassoun"
 ```
 
 Your live URL appears in **Settings → Pages** once the first deploy finishes (~2 min).
